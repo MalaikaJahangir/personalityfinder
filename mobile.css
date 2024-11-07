@@ -8,6 +8,18 @@
         margin-top: 40% !important;
     }
 
+    .video-background video {
+        display: none;
+    }
+    .mobile-background {
+        background-image: url('bg-for-mobile.png');
+        background-size: cover; 
+        background-position: center; 
+        background-repeat: no-repeat; 
+        background-blend-mode: darken !important;
+        background-color: rgba(202, 158, 158, 0.979) !important; /* Adjust the rgba value as needed */
+    }
+
     .text-inside h2 {
         font-size: 30px !important;
     }
