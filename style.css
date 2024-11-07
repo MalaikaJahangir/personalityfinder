@@ -171,6 +171,7 @@ video {
 .result-back {
     background-image: url(images/back-gbb.webp);
     background-size: cover;
+    height: 100vh;
     background-blend-mode: darken;
     background-repeat: no-repeat;
     background-color: rgba(12, 12, 165, 0.219);
