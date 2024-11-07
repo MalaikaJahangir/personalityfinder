@@ -1,0 +1,72 @@
+@media only screen and (max-width: 600px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .content {
+        margin-top: 40% !important;
+    }
+
+    .text-inside h2 {
+        font-size: 30px !important;
+    }
+
+
+    .text-inside h6 {
+        color: black;
+        letter-spacing: 1px;
+        padding-top: 2% !important;
+        padding-bottom: 2% !important;
+    }
+
+    #proceedBtn {
+        margin-left: 17% !important;
+    }
+
+    .quiz-list li {
+        letter-spacing: 0.5px !important;
+        line-height: 1.5em !important;
+    }
+
+    #proceedBox {
+        margin-top: -9% !important;
+    }
+
+    #questionsContainer {
+        margin-top: -6% !important;
+    }
+    #questionsContainer h3 {
+        font-size: 20px !important;
+        font-weight: 700;
+    }
+
+    #questionsContainer label {
+        font-size: 16px !important;
+        margin-bottom: 2%;
+        line-height: 1.5em;
+        letter-spacing: 1px;
+    }
+
+    #quizForm {
+        padding-left: 4% !important;
+    }
+    .instructionsPagebg {
+        background-image: none !important;
+        background-color: #ffffff !important;
+        background-size: cover;
+        /* background-blend-mode: darken; */
+        /* background-color: rgba(0, 0, 0, 0.11); */
+    }
+    #SubmitBTN {
+        margin-left: 36% !important;
+        margin-bottom: -8% !important;
+        font-size: 18px !important;
+    }
+    .result-container {
+        margin-top: 8% !important;
+    }
+    #resultDescription {
+        font-size: 16px !important;
+    }
+}
